@@ -1,0 +1,45 @@
+.selected-course {
+  display: flex;
+  box-shadow: 2px 2px 5px 2px #888888;
+}
+.course-img {
+  width: 200px;
+  margin-right: 10px;
+}
+.item-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.data-container {
+  padding: 10px;
+}
+.failure-container {
+  margin-top: 20px;
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.failure-img {
+  width: 300px;
+}
+.failure-heading {
+  color: #1e293b;
+  text-align: center;
+}
+.failure-para {
+  text-align: center;
+}
+.retry-button {
+  color: white;
+  background-color: #4656a1;
+  padding: 10px;
+  width: 70px;
+  border-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

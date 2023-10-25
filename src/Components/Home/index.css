@@ -1,0 +1,16 @@
+.container {
+  height: 90vh;
+  padding: 20px;
+}
+.loader-container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.courses-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}

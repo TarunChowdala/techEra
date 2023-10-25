@@ -1,0 +1,16 @@
+.course-item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+.course-logo {
+  width: 50px;
+}
+.link-item {
+  text-decoration: none;
+}
+.course-name {
+  color: black;
+}
